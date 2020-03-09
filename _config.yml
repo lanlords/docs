@@ -9,7 +9,7 @@ title: Lanlords Docs
 description: >-
   Een verzameling van de installatie instructies van de games, informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
 baseurl: ""
-url: "https://docs.lanlords.nl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.lanlords.nl"
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
