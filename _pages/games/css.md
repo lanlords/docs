@@ -1,7 +1,6 @@
 ---
 layout: page
 parent: Games
-nav_order: 2
 
 title: Counter-Strike Source
 permalink: /games/css

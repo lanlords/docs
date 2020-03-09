@@ -1,7 +1,6 @@
 ---
 layout: page
 parent: Games
-nav_order: 2
 
 title: Call of Duty 5
 permalink: /games/cod5

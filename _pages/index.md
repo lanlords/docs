@@ -24,3 +24,7 @@ Deze editie spelen we de volgende games en versies:
 
 Sommige games hebben een fallback die gespeeld zullen worden als de primaire game niet werkt.
 Zorg er dus voor dat de zowel de primaire game als de fallback game  is geïnstalleerd!
+
+### Discord
+
+Er is een officiele Lanlords Discord server die gebruikt wordt voor communicatie tijdens en buiten Lanlords. Zie de [Discord](discord) pagine voor de invite link en overige informatie betreffende de Discord server.

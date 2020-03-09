@@ -1,7 +1,6 @@
 ---
 layout: page
 parent: Games
-nav_order: 2
 
 title: Chivalry Medieval Warfare
 permalink: /games/cmw

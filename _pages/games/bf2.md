@@ -1,7 +1,6 @@
 ---
 layout: page
 parent: Games
-nav_order: 2
 
 title: Battlefield 2
 permalink: /games/bf2

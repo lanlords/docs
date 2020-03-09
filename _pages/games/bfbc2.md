@@ -1,7 +1,6 @@
 ---
 layout: page
 parent: Games
-nav_order: 2
 
 title: Battlefield Bad Company 2
 permalink: /games/bfbc2
@@ -26,16 +25,16 @@ Er zijn 3 methoden om het spel te installeren:
 Installeer het spel vanuit EA Origin,
 Download de 2 bestanden en voeg ze toe aan de installatie map van BFBC2
 
-* [Bestand 1 (bfbc2.ini)](gamefiles/bfbc2.ini)
-* [Bestand 2 (dinput8.dll)](gamefiles/dinput8.dll)
+* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/game/bfbc2/bfbc2.ini)
+* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/game/bfbc2/dinput8.dll)
 
 #### CD Installatie
 
 Installeer het spel vanaf de CD,
 Download de 2 bestanden en voeg ze toe aan de installatie map van BFBC2
 
-* [Bestand 1 (bfbc2.ini)](gamefiles/bfbc2.ini)
-* [Bestand 2 (dinput8.dll)](gamefiles/dinput8.dll)
+* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/game/bfbc2/bfbc2.ini)
+* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/game/bfbc2/dinput8.dll)
 
 #### Installatie folder kopieren
 
@@ -45,4 +44,5 @@ Zorg dat je het van iemand kopieert bij wie het werkt, anders ben je een domme h
 ### Bekende problemen
 
 #### Steam werkt niet!
+
 Ja dat klopt, die installatie methode is ook niet vermeld!
