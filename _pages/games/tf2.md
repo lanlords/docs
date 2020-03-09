@@ -10,7 +10,7 @@ Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ games.tf2.version }}**
+De versie die je moet hebben is: **{{ site.games.tf2.version }}**
 
 ### Installatie
 
