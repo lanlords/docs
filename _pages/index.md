@@ -27,4 +27,4 @@ Zorg er dus voor dat de zowel de primaire game als de fallback game  is geïnsta
 
 ### Discord
 
-Er is een officiele Lanlords Discord server die gebruikt wordt voor communicatie tijdens en buiten Lanlords. Zie de [Discord](discord) pagine voor de invite link en overige informatie betreffende de Discord server.
+Er is een officiële Lanlords Discord server die gebruikt wordt voor communicatie tijdens en buiten Lanlords. Zie de [Discord](discord) pagina voor de invite link en overige informatie betreffende de Discord server.
