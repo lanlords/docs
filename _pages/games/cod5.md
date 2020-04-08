@@ -14,7 +14,7 @@ De versie die je moet hebben is: **{{ site.games.cod5.version }}**
 
 ### Installatie
 
-1. Mount the iso "Call of Duty 5.iso"
+1. Mount the iso `Call of Duty 5.iso`
 2. Als een key nodig is kan je "Call of Duty 5 keygen.exe" gebruiken om een nieuwe key te krijgen
 3. Installeer alle patches op volgorde uit de map "Patches"
 4. Kopieer uit de "Crack" folder "CodWaW.exe" naar de plek van installatie.
