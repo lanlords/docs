@@ -28,11 +28,11 @@ _1. Mini Jack inpluggen_
 
 Voordat je het spel start, plug een mini headphone jack (zoals bij een microfoon of normale oortjes), zoals deze:
 
-![Screenshot](game/img/mini-jack.jpg)
+![Screenshot](/assets/img/mini-jack.jpg)
 
 in de microfoon poort van je computer. Deze is meestal roze gekleurd en staat er een microfoon icoontje bij, zoals de middelste poort van het onderstaande plaatje:
 
-![Screenshot](game/img/audio-ports.jpg)
+![Screenshot](/assets/img/audio-ports.jpg)
 
 De mini jack hoef je alleen maar ingeprikt te hebben bij het opstarten, daarna kan je deze weer uit je computer halen.
 
@@ -42,7 +42,7 @@ Controleer of "DirectPlay" is geinstalleerd. Klik op start en type "turn windows
 
 Klik vervolgens in het vakje voor "DirectPlay" en klik op "OK".
 
-![Screenshot](game/img/windows-features-direct-play.jpg)
+![Screenshot](/assets/img/windows-features-direct-play.jpg)
 
 ---
 
