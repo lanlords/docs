@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/lanlords/docs.svg)](LICENSE.md)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Lanlords Docs
 
