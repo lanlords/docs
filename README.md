@@ -14,4 +14,4 @@ By default Jekyll when running the `serve` command is reachable on [127.0.0.1:40
 
 ## License
 
-[Apache license](LICENSE)
+[MIT license](LICENSE)
