@@ -4,4 +4,4 @@ title: Discord
 permalink: /discord
 ---
 
-Er is een officiële Lanlords Discord server. Deze server kan je hier joinen: [https://discordapp.com/invite/t2xDnst](https://discordapp.com/invite/t2xDnst).
+Er is een officiële Lanlords Discord server. Je kan de Discord server joinen op deze website: [https://discord.lanlords.nl](discord.lanlords.nl).
