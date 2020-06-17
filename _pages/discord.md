@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Discord
+nav_order: 2
 permalink: /discord
 ---
 
