@@ -1,9 +1,11 @@
 ---
-layout: page
 title: VPN
-nav_order: 4
+nav_order: 5
+#has_children: true
 permalink: /vpn
 ---
+
+# VPN
 
 Om via internet te kunnen lannen is er een VPN server beschikbaar. Deze pagina legt beide methodes uit hoe de VPN ingesteld kan worden. Er is een handig script gemaakt die het meeste werk van het instellen voor je doet. Daarnaast staat er verderop deze pagina de stappen om zelf de VPN handmatig in te stellen.
 

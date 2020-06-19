@@ -7,7 +7,8 @@ permalink: pretty
 # Site settings
 title: Lanlords Docs
 description: >-
-  Een verzameling van de installatie instructies van de games, informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
+  Een verzameling van de installatie instructies van de games,
+  informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
 baseurl: "/"
 url: "https://docs.lanlords.nl"
 
@@ -24,8 +25,6 @@ games:
     version: ntb
   bfbc2:
     version: ntb
-  cmw:
-    version: 'laatste Steam versie'
   cod2:
     version: v1.3
   cod4:
