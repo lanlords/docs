@@ -5,8 +5,6 @@ permalink: /
 nav_exclude: true
 ---
 
-# Welkom
-
 Welkom op de Lanlords Documentatie! Zie het linker menu voor de installatie
 instructies voor de verschillende games en oplossingen voor de meest
 voorkomende problemen.

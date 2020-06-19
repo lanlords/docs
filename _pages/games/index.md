@@ -5,8 +5,6 @@ has_children: true
 permalink: /games
 ---
 
-# Games
-
 De volgende games worden regelmatig bij Lanlords gespeeld. Zie de [home](/#games)
 pagina voor de lijst van games die de aankomende editie worden gespeeld.
 
