@@ -11,7 +11,7 @@ voorkomende problemen.
 
 ### Games
 
-Deze editie spelen we de onderstaande games. Zie de [games](/games/) pagina
+Deze editie spelen we de onderstaande games. Zie de [games](/games) pagina
 voor de specifieke versies.
 
 | Game                                               | Fallback     |
