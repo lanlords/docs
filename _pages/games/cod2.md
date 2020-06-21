@@ -12,11 +12,15 @@ Installeer {{ page.title }}
 
 De versie die je moet hebben is: **{{ site.games.cod2.version }}**
 
+### Download
+
+Download [het zip bestand]({{ site.games.cod2.download }}) met alle installatie bestanden.
+
 ### Installatie
 
-1. Mount de ISO
-2. Installeer + gebruik de keygen
-3. Patch het spel naar v1.3
+1. Mount de `install.iso` iso
+2. Volg de installatie stappen en gebruik de key uit `serial.txt`.
+3. Patch het spel naar v1.3 door `patch_1.3.exe` te openen.
 
 ### Bekende problemen
 

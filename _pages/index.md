@@ -12,7 +12,7 @@ voorkomende problemen.
 ### Games
 
 Deze editie spelen we de onderstaande games. Zie de [games](/games) pagina
-voor de specifieke versies.
+voor de gebruikte versies.
 
 | Game                                               | Fallback     |
 |----------------------------------------------------|--------------|
