@@ -29,17 +29,17 @@ aux_links:
 # Content variables
 games:
   bf1942:
-    download: "https://lanlords-files.fieldfuckers.nl/file/lanlords/games/bf1942.zip"
+    download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
     version: v1.61b
   bf2:
     version: ntb
   bfbc2:
     version: ntb
   cod2:
-    download: "https://lanlords-files.fieldfuckers.nl/file/lanlords/games/cod2.zip"
+    download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
     version: v1.3
   cod4:
-    download: "https://lanlords-files.fieldfuckers.nl/file/lanlords/games/cod4.zip"
+    download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
     version: v1.7
   cod5:
     version: v1.5
