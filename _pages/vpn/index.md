@@ -11,8 +11,8 @@ belangrijk dat de stappen op deze pagina zorgvuldig worden gevolgd. Ga bij
 vragen of problemen eerst naar je teamcaptain voor hulp.
 {: .label .label-yellow .fs-3 .fw-700 .px-4 .py-3	}
 
-Om via internet te kunnen lannen is er een VPN server beschikbaar. Deze pagina
-legt uit hoe de VPN ingesteld kan worden. Er is een handig script gemaakt die
+Om via internet te kunnen lannen is er een VPN server beschikbaar. Deze pagina's
+leggen uit hoe de VPN ingesteld kan worden. Er is een handig script gemaakt die
 het meeste werk van het instellen voor je doet. Het is belangrijk dat dit script
 wordt gebruikt (in plaats van handmatig instellen) omdat het script er voor
 zorgt dat alleen verkeer bestemd voor Lanlords de VPN gebruikt en de rest niet.
@@ -20,8 +20,8 @@ zorgt dat alleen verkeer bestemd voor Lanlords de VPN gebruikt en de rest niet.
 ---
 
 Kijk op de [configureren](configureren) pagina voor de stappen om de VPN in te
-stellen. Heb je de VPN al eerder geconfigureerd, maar wil je alleen weten hoe je
-ook alweer moet verbinden kijk dan op de [verbinden](verbinden) pagina.
+stellen. Heb je dat al gedaan maar ben je vergeten hoe je ook alweer moet
+verbinden? Kijk dan op de [verbinden](verbinden) pagina.
 
 Ben je ten slotte klaar met het instellen en ben je succesvol verbonden, kijk
 dan op de [testen](testen) pagina om te zien hoe je de games (via de VPN) kan
