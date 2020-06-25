@@ -7,7 +7,7 @@ permalink: /vpn/verbinden
 ---
 
 Heb je de VPN al [geconfigureerd](configureren) maar ben je vergeten hoe je ook
-alweer moet verbinden? Bekijk dan op deze pagina de stappen om dit te doen.
+alweer moet verbinden? Bekijk dan de onderstaande stappen om dit te doen.
 
 ---
 
