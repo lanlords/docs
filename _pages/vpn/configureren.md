@@ -43,7 +43,7 @@ Volg de onderstaande stappen om de Lanlords VPN in te stellen.
 7. Gebruik de onderstaande gegevens voor het verschenen inlogscherm
 
    * User name / Gebruikersnaam: `lanlords`
-   * Password / Wachtwoord: `Lanlords`
+   * Password / Wachtwoord: `lanlords`
 
    ![Screenshot](/assets/img/vpn/network-menu-login.png)
 
