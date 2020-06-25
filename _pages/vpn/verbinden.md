@@ -6,7 +6,7 @@ title: Verbinden
 permalink: /vpn/verbinden
 ---
 
-Heb je de VPN al [geconfigureerd](configureren) maar ben je vergeten hoe je ook
+Heb je de VPN al [geconfigureerd](/vpn/configureren) maar ben je vergeten hoe je ook
 alweer moet verbinden? Bekijk dan de onderstaande stappen om dit te doen.
 
 ---
@@ -30,4 +30,4 @@ alweer moet verbinden? Bekijk dan de onderstaande stappen om dit te doen.
 ---
 
 Wil je testen of de VPN werkt en of je met de game servers kan verbinden? Kijk
-dan op de [testen](testen) pagina.
+dan op de [testen](/vpn/testen) pagina.

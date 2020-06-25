@@ -54,4 +54,4 @@ Volg de onderstaande stappen om de Lanlords VPN in te stellen.
 ---
 
 Wil je testen of de VPN werkt en of je met de game servers kan verbinden? Kijk
-dan op de [testen](testen) pagina.
+dan op de [testen](/vpn/testen) pagina.

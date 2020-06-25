@@ -19,10 +19,10 @@ zorgt dat alleen verkeer bestemd voor Lanlords de VPN gebruikt en de rest niet.
 
 ---
 
-Kijk op de [configureren](configureren) pagina voor de stappen om de VPN in te
+Kijk op de [configureren](/vpn/configureren) pagina voor de stappen om de VPN in te
 stellen. Heb je dat al gedaan maar ben je vergeten hoe je ook alweer moet
-verbinden? Kijk dan op de [verbinden](verbinden) pagina.
+verbinden? Kijk dan op de [verbinden](/vpn/verbinden) pagina.
 
 Ben je ten slotte klaar met het instellen en ben je succesvol verbonden, kijk
-dan op de [testen](testen) pagina om te zien hoe je de games (via de VPN) kan
+dan op de [testen](/vpn/testen) pagina om te zien hoe je de games (via de VPN) kan
 gaan testen.
