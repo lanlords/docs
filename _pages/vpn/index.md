@@ -1,20 +1,28 @@
 ---
 title: VPN
 nav_order: 5
-#has_children: true
+has_children: true
+has_toc: false
 permalink: /vpn
 ---
 
-Deze pagina is nog niet af en wordt hard aan gewerkt. Zodra de instructies
-voor het instellen van de VPN klaar zijn wordt dit gecommuniceerd.
+Dit is voor het eerst dat we VPN gebruiken bij Lanlords. Daarom is het extra
+belangrijk dat de stappen op deze pagina zorgvuldig worden gevolgd. Ga bij
+vragen of problemen eerst naar je teamcaptain voor hulp.
 {: .label .label-yellow .fs-3 .fw-700 .px-4 .py-3	}
 
 Om via internet te kunnen lannen is er een VPN server beschikbaar. Deze pagina
-legt beide methodes uit hoe de VPN ingesteld kan worden. Er is een handig script
-gemaakt die het meeste werk van het instellen voor je doet. Daarnaast staat er
-verderop deze pagina de stappen om zelf de VPN handmatig in te stellen.
+legt uit hoe de VPN ingesteld kan worden. Er is een handig script gemaakt die
+het meeste werk van het instellen voor je doet. Het is belangrijk dat dit script
+wordt gebruikt (in plaats van handmatig instellen) omdat het script er voor
+zorgt dat alleen verkeer bestemd voor Lanlords de VPN gebruikt en de rest niet.
 
-Dit is voor het eerst dat we VPN gebruiken bij Lanlords en het is nog niet
-getest met zo veel spelers tegelijk. Daarom is het extra belangrijk dat je
-alle stappen op deze pagina om te zorgen dat iedereen op de juiste manier
-verbinding maakt.
+---
+
+Kijk op de [configureren](configureren) pagina voor de stappen om de VPN in te
+stellen. Heb je de VPN al eerder geconfigureerd, maar wil je alleen weten hoe je
+ook alweer moet verbinden kijk dan op de [verbinden](verbinden) pagina.
+
+Ben je ten slotte klaar met het instellen en ben je succesvol verbonden, kijk
+dan op de [testen](testen) pagina om te zien hoe je de games (via de VPN) kan
+gaan testen.

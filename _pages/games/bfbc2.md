@@ -25,16 +25,16 @@ Er zijn 3 methoden om het spel te installeren:
 Installeer het spel vanuit EA Origin,
 Download de 2 bestanden en voeg ze toe aan de installatie map van BFBC2
 
-* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/game/bfbc2/bfbc2.ini)
-* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/game/bfbc2/dinput8.dll)
+* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/file/game/bfbc2/bfbc2.ini)
+* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/file/game/bfbc2/dinput8.dll)
 
 #### CD Installatie
 
 Installeer het spel vanaf de CD,
 Download de 2 bestanden en voeg ze toe aan de installatie map van BFBC2
 
-* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/game/bfbc2/bfbc2.ini)
-* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/game/bfbc2/dinput8.dll)
+* [Bestand 1 (bfbc2.ini)]({{ baseurl }}/assets/file/game/bfbc2/bfbc2.ini)
+* [Bestand 2 (dinput8.dll)]({{ baseurl }}/assets/file/game/bfbc2/dinput8.dll)
 
 #### Installatie folder kopieren
 
