@@ -1,4 +1,5 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/lanlords/docs/badge)](https://www.codefactor.io/repository/github/lanlords/docs)
+[![GitHub deployments](https://img.shields.io/github/deployments/lanlords/docs/github-pages?label=deployment)](https://github.com/lanlords/docs/deployments)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Lanlords Docs
