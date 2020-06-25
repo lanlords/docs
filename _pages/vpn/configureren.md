@@ -36,7 +36,7 @@ Volg de onderstaande stappen om de Lanlords VPN in te stellen.
 
    ![Screenshot](/assets/img/vpn/network-menu.png)
 
-6. Klik op **Lanlords VPN** en daarna op **Connect** of **Verbinden**
+6. Klik op **Lanlords VPN** en daarna op **Connect** of **Verbinding maken**
 
    ![Screenshot](/assets/img/vpn/network-menu-selected.png)
 

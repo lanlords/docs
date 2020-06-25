@@ -19,7 +19,7 @@ alweer moet verbinden? Bekijk dan de onderstaande stappen om dit te doen.
 
    ![Screenshot](/assets/img/vpn/network-menu.png)
 
-2. Klik op **Lanlords VPN** en daarna op **Connect** of **Verbinden**
+2. Klik op **Lanlords VPN** en daarna op **Connect** of **Verbinding maken**
 
    ![Screenshot](/assets/img/vpn/network-menu-selected.png)
 
