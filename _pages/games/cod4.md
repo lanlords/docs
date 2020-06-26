@@ -31,6 +31,15 @@ Download [het zip bestand]({{ site.games.cod4.download }}) met alle installatie 
 10. Klik op *Easy Upgrade*.
 11. ALT-TAB weer terug naar Call of Duty 4.
 
+### Verbinden op ip-adres
+
+1. Open de console met de `~` toets
+2. Typ `connect xxx.xxx.xxx.xxx` en druk op enter.
+   Bijvoorbeeld: `connect 192.168.1.64`
+
+Kan je niet verbinden, controleer dan of je het juiste ip-adres gebruikt en dat
+je verbonden met de VPN. Werkt het dan nog niet, vraag het aan je teamcaptain.
+
 ### Bekende problemen
 
 **Foutmelding bij het starten**
