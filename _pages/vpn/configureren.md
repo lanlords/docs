@@ -6,7 +6,9 @@ title: Configureren
 permalink: /vpn/configureren
 ---
 
-Volg de onderstaande stappen om de Lanlords VPN in te stellen.
+Volg de onderstaande stappen om de Lanlords VPN in te stellen. Werkt het script
+niet, kan je de stappen uit het script ook handmatig uitvoeren door de stappen
+op de [handmatig](/vpn/handmatig) pagina te volgen.
 
 ---
 
@@ -21,11 +23,10 @@ Volg de onderstaande stappen om de Lanlords VPN in te stellen.
 
    ![Screenshot](/assets/img/vpn/uac-prompt.png)
 
-4. Als het goed is verschijnt er nu een blauw (PowerShell) venster. Dit venster
-   vraagt 2x of je door wilt gaan. Je kan twee keer **Enter** gebruiken om door
-   te gaan. Het venster sluit vervolgens vanzelf weer
+4. Als het goed is verschijnt er nu een blauw (PowerShell) venster. De VPN wordt
+   nu ingesteld. Het venster sluit vervolgens vanzelf weer
 
-   ![Screenshot](/assets/img/vpn/powershell-questions.png)
+   ![Screenshot](/assets/img/vpn/powershell-forced.png)
 
 5. De VPN connectie zou nu toegevoegd moeten zijn. Klik rechts onderin op het
    netwerk icoontje met de linker-muisknop
@@ -47,7 +48,7 @@ Volg de onderstaande stappen om de Lanlords VPN in te stellen.
 
    ![Screenshot](/assets/img/vpn/network-menu-login.png)
 
-8. Na een paar seconden zou er verbonden moeten zijn met de VPN server
+8. Na een paar seconden zou er verbinding moeten zijn met de VPN server
 
    ![Screenshot](/assets/img/vpn/network-menu-connected.png)
 

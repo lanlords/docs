@@ -13,9 +13,8 @@ vragen of problemen eerst naar je teamcaptain voor hulp.
 
 Om via internet te kunnen lannen is er een VPN server beschikbaar. Deze pagina's
 leggen uit hoe de VPN ingesteld kan worden. Er is een handig script gemaakt die
-het meeste werk van het instellen voor je doet. Het is belangrijk dat dit script
-wordt gebruikt (in plaats van handmatig instellen) omdat het script er voor
-zorgt dat alleen verkeer bestemd voor Lanlords de VPN gebruikt en de rest niet.
+het meeste werk van het instellen voor je doet. Het script heeft de voorkeur,
+maar in het geval het script niet werkt kan de VPN handmatig worden ingesteld.
 
 ---
 
