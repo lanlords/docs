@@ -7,7 +7,7 @@ permalink: /vpn/configureren
 ---
 
 Volg de onderstaande stappen om de Lanlords VPN in te stellen. Werkt het script
-niet, kan je de stappen uit het script ook handmatig uitvoeren door de stappen
+niet, dan kan je de stappen uit het script ook handmatig uitvoeren door de stappen
 op de [handmatig](/vpn/handmatig) pagina te volgen.
 
 ---
