@@ -40,6 +40,16 @@ Download [het zip bestand]({{ site.games.cod4.download }}) met alle installatie 
 Kan je niet verbinden, controleer dan of je het juiste ip-adres gebruikt en dat
 je verbonden met de VPN. Werkt het dan nog niet, vraag het aan je teamcaptain.
 
+### De console doet het niet
+
+Als je de console niet kan openen met de `~` toets dan kan je de volgende stappen volgen om het aan te zetten:
+
+1. Klik op *Options* in het hoofdmenu
+2. Klik op *Game Options...*
+3. Klik rechts op *Enable console* en zorg ervoor dat de waarde op **Yes** staat 
+
+Nu zou het moeten werken :)
+
 ### Bekende problemen
 
 **Foutmelding bij het starten**
