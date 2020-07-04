@@ -4,6 +4,8 @@ parent: VPN
 
 title: Configureren
 permalink: /vpn/configureren
+
+nav_exclude: true
 ---
 
 Volg de onderstaande stappen om de Lanlords VPN in te stellen. Werkt het script

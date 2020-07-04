@@ -19,25 +19,24 @@ De versie die je moet hebben is: **{{ site.games.csgo.version }}**
 ### Verbinden op ip-adres
 
 1. Open de console met de `~` toets (werkt dit niet? klik [hier](#de-console-doet-het-niet) of lees hier onder verder)
-2. Typ `connect xxx.xxx.xxx.xxx` en druk op enter.
-   Bijvoorbeeld: `connect 192.168.1.66`
+2. Typ `connect vpn.lanlords.nl:27016` en druk op enter (de **27016** is belangrijk!)
 
 Soms verdwijnt de console gelijk weer bij het typen. Los dit op door de console
 te openen met de `~` toets, de letter `a` te typen en deze weer weg te halen met
 de backspace toets. Vervolgens kan er weer normaal getypt worden.
 
-Kan je niet verbinden, controleer dan of je het juiste ip-adres gebruikt en dat
-je verbonden met de VPN. Werkt het dan nog niet, vraag het aan je teamcaptain.
+Kan je niet verbinden, controleer dan of je het juiste ip-adres gebruikt. Werkt
+het dan nog niet, vraag het aan je teamcaptain.
 
 ### De console doet het niet
 
 Als je de console niet kan openen met de `~` toets dan kan je de volgende stappen volgen om het aan te zetten:
 
 1. Klik op het Settings tandwieltje in CS:GO
-2. Klik op de Tab 'Game' 
+2. Klik op de Tab 'Game'
 3. Zoek onder het kopje Game de instelling: 'Enable Developer Console'
 4. Zet die op 'Yes'
 
-Nu zou het moeten werken :) 
+Nu zou het moeten werken :)
 
 ### Bekende problemen

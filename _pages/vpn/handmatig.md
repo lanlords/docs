@@ -4,6 +4,8 @@ parent: VPN
 
 title: Handmatig
 permalink: /vpn/handmatig
+
+nav_exclude: true
 ---
 
 Werkt het instellen van de VPN niet met de script methode zoals beschreven

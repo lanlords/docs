@@ -4,6 +4,8 @@ parent: VPN
 
 title: Verbinden
 permalink: /vpn/verbinden
+
+nav_exclude: true
 ---
 
 Heb je de VPN al [geconfigureerd](/vpn/configureren) maar ben je vergeten hoe je ook

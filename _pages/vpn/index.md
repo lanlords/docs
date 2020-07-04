@@ -6,6 +6,12 @@ has_toc: false
 permalink: /vpn
 ---
 
+Tijdens het testen tijdens de vrijdag zijn wij er achter gekomen dat de VPN niet
+goed genoeg werkt. Daarom moet je de VPN **NIET** gebruiken, maar op een ander IP
+joinen zonder VPN. De games op de [game pagina's](/games) pagina laten zien hoe
+je dat moet doen.
+{: .label .label-red .fs-3 .fw-700 .px-4 .py-3	}
+
 Dit is voor het eerst dat we VPN gebruiken bij Lanlords. Daarom is het extra
 belangrijk dat de stappen op deze pagina zorgvuldig worden gevolgd. Ga bij
 vragen of problemen eerst naar je teamcaptain voor hulp.

@@ -4,6 +4,8 @@ parent: VPN
 
 title: Testen
 permalink: /vpn/testen
+
+nav_exclude: true
 ---
 
 De test servers zijn online en te bereiken op de onderstaande ip-adressen:
