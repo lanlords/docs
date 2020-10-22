@@ -12,7 +12,7 @@ Installeer {{ page.title }}
 
 De versie die je moet hebben is: **{{ site.games.cod4.version }}**
 
-### Download
+### Bestanden
 
 Download [het zip bestand]({{ site.games.cod4.download }}) met alle installatie bestanden.
 
