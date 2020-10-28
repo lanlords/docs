@@ -19,7 +19,7 @@ De versie die je moet hebben is: **{{ site.games.csgo.version }}**
 ### Verbinden op ip-adres
 
 1. Open de console met de `~` toets (werkt dit niet? klik [hier](#de-console-doet-het-niet) of lees hier onder verder)
-2. Typ `connect vpn.lanlords.nl:27016` en druk op enter (de **27016** is belangrijk!)
+2. Typ `connect server.lanlords.nl` en druk op enter (de **27016** is belangrijk!)
 
 Soms verdwijnt de console gelijk weer bij het typen. Los dit op door de console
 te openen met de `~` toets, de letter `a` te typen en deze weer weg te halen met

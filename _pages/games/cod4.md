@@ -34,7 +34,7 @@ Download [het zip bestand]({{ site.games.cod4.download }}) met alle installatie 
 ### Verbinden op ip-adres
 
 1. Open de console met de `~` toets (werkt dit niet? klik [hier](#de-console-doet-het-niet) of lees hier onder verder)
-2. Typ `connect vpn.lanlords.nl` en druk op enter
+2. Typ `connect server.lanlords.nl` en druk op enter
 
 Kan je niet verbinden, controleer dan of je het juiste ip-adres gebruikt. Werkt
 het dan nog niet, vraag het aan je teamcaptain.
