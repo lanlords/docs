@@ -2,15 +2,12 @@
 layout: page
 title: Online
 nav_order: 3
+published: false
 permalink: /online
 ---
 
-Tijdens Lanlords is gebleken dat de VPN niet werkt. Daarom gaan we de VPN
-**niet** meer gebruiken. Dit veranderd voor jullie niets, behalve dat het IP wat
-je in moet vullen bij het verbinden van een server in een game verandert.
-
 De precieze stappen en server/ip die je moet gebruiken staan op de bijbehorende
-game pagina's. Hieronder zijn de (nieuwe) ip's ook te vinden die je moet gebruiken:
+game pagina's. Hieronder zijn de ip's ook te vinden die je moet gebruiken:
 
 | Game                                             | IP adres                  |
 |--------------------------------------------------|---------------------------|
