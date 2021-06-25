@@ -32,7 +32,8 @@ games:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
     version: v1.61b
   bf2:
-    version: ntb
+    download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
+    version: v1.50
   bfbc2:
     version: ntb
   cod2:
