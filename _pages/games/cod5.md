@@ -12,6 +12,10 @@ Installeer {{ page.title }}
 
 De versie die je moet hebben is: **{{ site.games.cod5.version }}**
 
+### Bestanden
+
+Download [het zip bestand]({{ site.games.cod5.download }}) met alle installatie bestanden.
+
 ### Installatie
 
 1. Mount the iso `Call of Duty 5.iso`

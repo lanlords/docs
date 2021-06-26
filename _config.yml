@@ -43,6 +43,7 @@ games:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
     version: v1.7
   cod5:
+    download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
     version: v1.5
   csgo:
     version: 'laatste Steam versie'
