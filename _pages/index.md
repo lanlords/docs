@@ -18,24 +18,17 @@ voor de gebruikte versies.
 |----------------------------------------------------|--------------|
 | [Battlefield 1942](games/bf1942)                   | nvt          |
 | [Battlefield 2](games/bf2)                         | nvt          |
+| [Battlefield 3](games/bf3)                         | nvt          |
 | [Call of Duty 2](games/cod2)                       | nvt          |
 | [Call of Duty 4](games/cod4)                       | nvt          |
 | [Call of Duty 5](games/cod5)                       | nvt          |
 | [Counter-Strike: Global Offensive](games/csgo)     | [Counter-Strike: Source](games/css)  |
+| [FlatOut 2](games/fo2)                             | nvt          |
 | [Team Fortress 2](games/tf2)                       | nvt          |
 
 Sommige games hebben een fallback die gespeeld zullen worden als de primaire
 game niet werkt. Zorg er dus voor dat de zowel de primaire game als de fallback
 game is geïnstalleerd!
-
-De volgende games staan ook in het schema maar tellen in tegenstelling tot de
-bovenstaande games niet mee voor de punten. Deze games spelen wij tussendoor en
-alvast te testen voor volgende edities:
-
-| Game                                               | Fallback     |
-|----------------------------------------------------|--------------|
-| [Battlefield 3](games/bf3)                         | nvt          |
-| [FlatOut 2](games/fo2)                             | nvt          |
 
 ### Discord
 
