@@ -47,6 +47,7 @@ games:
   csgo:
     version: 'laatste Steam versie'
   css:
+    download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
     version: ntb
   tf2:
     version: 'laatste Steam versie'
