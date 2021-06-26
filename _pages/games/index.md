@@ -19,5 +19,5 @@ pagina voor de lijst van games die de aankomende editie worden gespeeld.
 | [Call of Duty 5](/games/cod5)                    | {{ site.games.cod5.version }}    |
 | [Counter-Strike: Global Offensive](/games/csgo)  | {{ site.games.csgo.version }}    |
 | [Counter-Strike: Source](/games/css)             | {{ site.games.css.version }}     |
-| [FlatOut2](/games/fo2)                           | {{ site.games.fo2.version }}     |
+| [FlatOut 2](/games/fo2)                          | {{ site.games.fo2.version }}     |
 | [Team Fortress 2](/games/tf2)                    | {{ site.games.tf2.version }}     |
