@@ -50,5 +50,8 @@ games:
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
     version: ntb
+  fo2:
+    download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
+    version: ntb
   tf2:
     version: 'laatste Steam versie'
