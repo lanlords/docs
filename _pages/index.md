@@ -18,6 +18,7 @@ voor de gebruikte versies.
 |----------------------------------------------------|--------------|
 | [Battlefield 1942](games/bf1942)                   | nvt          |
 | [Battlefield 2](games/bf2)                         | nvt          |
+| [Battlefield Bad Company 2](/games/bfbc2)          | nvt          |
 | [Battlefield 3](games/bf3)                         | nvt          |
 | [Call of Duty 2](games/cod2)                       | nvt          |
 | [Call of Duty 4](games/cod4)                       | nvt          |
