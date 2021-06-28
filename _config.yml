@@ -39,11 +39,11 @@ games:
   bf3:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
     mirror:   "https://lanlords.nehox.nl:5001/sharing/CbImlwYDO"
-    version: ntb
+    version: '-'
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
     mirror:   "https://lanlords.nehox.nl:5001/sharing/btIeDvrHf"
-    version: ntb
+    version: '-'
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
     mirror:   "https://lanlords.nehox.nl:5001/sharing/1jNAldbWa"
@@ -60,10 +60,10 @@ games:
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
     mirror:   "https://lanlords.nehox.nl:5001/sharing/zltRyJuZD"
-    version: ntb
+    version: '-'
   fo2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
     mirror:   "https://lanlords.nehox.nl:5001/sharing/ut7LwwHNC"
-    version: ntb
+    version: '-'
   tf2:
     version: 'laatste Steam versie'
