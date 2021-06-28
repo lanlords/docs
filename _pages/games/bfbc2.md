@@ -15,6 +15,7 @@ De versie die je moet hebben is: **{{ site.games.bfbc2.version }}**
 ### Bestanden
 
 Download [het zip bestand]({{ site.games.bfbc2.download }}) met alle installatie bestanden.
+Of via [deze mirror]({{ site.games.bfbc2.mirror }}).
 
 ### Installatie
 

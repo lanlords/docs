@@ -15,6 +15,7 @@ De versie die je moet hebben is: **{{ site.games.fo2.version }}**
 ### Bestanden
 
 Download [het zip bestand]({{ site.games.fo2.download }}) met alle installatie bestanden.
+Of via [deze mirror]({{ site.games.fo2.mirror }}).
 
 ### Installatie
 

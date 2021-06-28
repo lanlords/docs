@@ -20,7 +20,6 @@ voor de gebruikte versies.
 | [Battlefield 2](games/bf2)                         | nvt          |
 | [Battlefield 3](games/bf3)                         | nvt          |
 | [Battlefield Bad Company 2](/games/bfbc2)          | nvt          |
-| [Battlefield 3](games/bf3)                         | nvt          |
 | [Call of Duty 2](games/cod2)                       | nvt          |
 | [Call of Duty 4](games/cod4)                       | nvt          |
 | [Call of Duty 5](games/cod5)                       | nvt          |
@@ -35,5 +34,5 @@ game is geïnstalleerd!
 ### Discord
 
 Er is een officiële Lanlords Discord server die gebruikt wordt voor communicatie
-tijdens en buiten Lanlords. Zie de [Discord](discord) pagina voor de invite link
-en overige informatie betreffende de Discord server.
+tijdens en buiten Lanlords. Kijk op de speciale [Discord](https://discord.lanlords.nl)
+pagina voor de invite link en overige informatie.

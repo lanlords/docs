@@ -15,6 +15,7 @@ De versie die je moet hebben is: **{{ site.games.css.version }}**
 ### Bestanden
 
 Download [het zip bestand]({{ site.games.css.download }}) met alle installatie bestanden.
+Of via [deze mirror]({{ site.games.css.mirror }}).
 
 ### Installatie
 

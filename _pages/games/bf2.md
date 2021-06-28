@@ -15,6 +15,7 @@ De versie die je moet hebben is: **{{ site.games.bf2.version }}**
 ### Bestanden
 
 Download [het zip bestand]({{ site.games.bf2.download }}) met alle installatie bestanden.
+Of via [deze mirror]({{ site.games.bf2.mirror }}).
 
 ### Installatie
 
