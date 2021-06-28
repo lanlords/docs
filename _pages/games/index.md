@@ -13,6 +13,7 @@ pagina voor de lijst van games die de aankomende editie worden gespeeld.
 |--------------------------------------------------|----------------------------------|
 | [Battlefield 1942](/games/bf1942)                | {{ site.games.bf1942.version }}  |
 | [Battlefield 2](/games/bf2)                      | {{ site.games.bf2.version }}     |
+| [Battlefield 3](/games/bf3)                      | {{ site.games.bf3.version }}     |
 | [Battlefield Bad Company 2](/games/bfbc2)        | {{ site.games.bfbc2.version }}   |
 | [Call of Duty 2](/games/cod2)                    | {{ site.games.cod2.version }}    |
 | [Call of Duty 4](/games/cod4)                    | {{ site.games.cod4.version }}    |

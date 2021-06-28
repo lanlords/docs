@@ -34,6 +34,9 @@ games:
   bf2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
     version: v1.50
+  bf3:
+    download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
+    version: ntb
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
     version: ntb
