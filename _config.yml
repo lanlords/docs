@@ -54,6 +54,7 @@ games:
     version: v1.7
   cod5:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/sfhMt1fZG"
     version: v1.5
   csgo:
     version: 'laatste Steam versie'
