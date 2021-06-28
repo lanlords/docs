@@ -46,6 +46,7 @@ games:
     version: ntb
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/1jNAldbWa"
     version: v1.3
   cod4:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
