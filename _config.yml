@@ -30,15 +30,19 @@ aux_links:
 games:
   bf1942:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/QuPLP2TRh"
     version: v1.61b
   bf2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/DrzLx4xHk"
     version: v1.50
   bf3:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/CbImlwYDO"
     version: ntb
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/btIeDvrHf"
     version: ntb
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
@@ -53,9 +57,11 @@ games:
     version: 'laatste Steam versie'
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/zltRyJuZD"
     version: ntb
   fo2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
+    mirror:   "https://lanlords.nehox.nl:5001/sharing/ut7LwwHNC"
     version: ntb
   tf2:
     version: 'laatste Steam versie'
