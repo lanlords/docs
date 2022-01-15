@@ -28,41 +28,41 @@ aux_links:
 games:
   bf1942:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/QuPLP2TRh"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/QuPLP2TRh"
     version: v1.61b
   bf2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/DrzLx4xHk"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/DrzLx4xHk"
     version: v1.50
   bf3:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/CbImlwYDO"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/CbImlwYDO"
     version: '-'
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/btIeDvrHf"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/btIeDvrHf"
     version: '-'
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/1jNAldbWa"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/1jNAldbWa"
     version: v1.3
   cod4:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/cNbYRwDlP"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/cNbYRwDlP"
     version: v1.7
   cod5:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/sfhMt1fZG"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/sfhMt1fZG"
     version: v1.5
   csgo:
     version: 'laatste Steam versie'
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/zltRyJuZD"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/zltRyJuZD"
     version: '-'
   fo2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
-    mirror:   "https://lanlords.nehox.nl:5001/sharing/ut7LwwHNC"
+    mirror:   "https://lanlords.nehox.eu:5001/sharing/ut7LwwHNC"
     version: '-'
   tf2:
     version: 'laatste Steam versie'
