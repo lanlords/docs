@@ -19,7 +19,9 @@ Of via [deze mirror]({{ site.games.bf3.mirror }}).
 
 ### Installatie
 
-1. Kopieer de bestanden naar vaste locatie (bijv.: `C:/Program Files/Battlefield 3`
-2. *De rest van de stappen volgen nog..*
+1. Kopieer de bestanden naar een vaste locatie (bijv.: `C:/Program Files/Battlefield 3`)
+2. Open de "Battlefield 3" map waar je hem naartoe gekopieerd hebt en start `Redirector.exe`
+3. Ga naar de website http://192.168.1.241/?action=register en maak een account aan
+4. Log in op de website en join de server. Je browser probeert nu redirector.exe op te starten, klik op OK
 
 ### Bekende problemen
