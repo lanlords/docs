@@ -28,41 +28,41 @@ aux_links:
 games:
   bf1942:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/QuPLP2TRh"
+    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%201942.zip"
     version: v1.61b
   bf2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/DrzLx4xHk"
+    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%202.zip"
     version: v1.50
   bf3:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/CbImlwYDO"
+    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%203.zip"
     version: '-'
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/btIeDvrHf"
+    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%20Bad%20Company%202.zip"
     version: '-'
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/1jNAldbWa"
+    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%202.zip"
     version: v1.3
   cod4:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/cNbYRwDlP"
+    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%204.zip"
     version: v1.7
   cod5:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/sfhMt1fZG"
+    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%205.zip"
     version: v1.5
   csgo:
     version: 'laatste Steam versie'
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/zltRyJuZD"
+    mirror:   "http://lanlords.nehox.eu:8888/Counter-Strike%20Source.zip"
     version: '-'
   fo2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
-    mirror:   "https://lanlords.nehox.eu:5001/sharing/ut7LwwHNC"
+    mirror:   "http://lanlords.nehox.eu:8888/FlatOut%202.zip"
     version: '-'
   tf2:
     version: 'laatste Steam versie'
