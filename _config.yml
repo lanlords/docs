@@ -21,41 +21,41 @@ plugins:
 aux_links:
   "Discord":
     - "https://discord.lanlords.nl"
+  "Download":
+    - "https://download.fieldfuckers.nl"
   "Website":
     - "http://www.lanlords.nl"
 
 # Content variables
 games:
   bf1942:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
+    download: "http://download.fieldfuckers.nl/file/bf1942"
     version:  v1.61b
   bf2:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
+    download: "http://download.fieldfuckers.nl/file/bf2"
     version:  v1.50
   bf3:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
+    download: "http://download.fieldfuckers.nl/file/bf3"
     version:  '-'
   bfbc2:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
+    download: "http://download.fieldfuckers.nl/file/bfbc2"
     version:  '-'
   cod2:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
+    download: "http://download.fieldfuckers.nl/file/cod2"
     version:  v1.3
   cod4:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
+    download: "http://download.fieldfuckers.nl/file/cod4"
     version:  v1.7
   cod5:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
+    download: "http://download.fieldfuckers.nl/file/cod5"
     version:  v1.7
   csgo:
     version:  'laatste Steam versie'
   css:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Counter-Strike%20Source.zip"
+    download: "http://download.fieldfuckers.nl/file/css"
     version:  '-'
   fo2:
-    download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/FlatOut%202.zip"
+    download: "http://download.fieldfuckers.nl/file/fo2"
     version:  '-'
   tf2:
     version:  'laatste Steam versie'
