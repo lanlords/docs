@@ -14,8 +14,8 @@ De versie die je moet hebben is: **{{ site.games.bf3.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.bf3.download }}) met alle installatie bestanden.
-Of via [deze mirror]({{ site.games.bf3.mirror }}).
+Download [het zip bestand]({{ site.games.bf3.download }}) met alle
+installatie bestanden.
 
 ### Installatie
 

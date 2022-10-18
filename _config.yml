@@ -28,41 +28,34 @@ aux_links:
 games:
   bf1942:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf1942.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%201942.zip"
-    version: v1.61b
+    version:  v1.61b
   bf2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf2.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%202.zip"
-    version: v1.50
+    version:  v1.50
   bf3:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bf3.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%203.zip"
-    version: '-'
+    version:  '-'
   bfbc2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/bfbc2.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Battlefield%20Bad%20Company%202.zip"
-    version: '-'
+    version:  '-'
   cod2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod2.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%202.zip"
-    version: v1.3
+    version:  v1.3
   cod4:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod4.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%204.zip"
-    version: v1.7
+    version:  v1.7
   cod5:
     download: "https://f002.backblazeb2.com/file/lanlords/games/cod5.zip"
-    mirror:   "http://lanlords.nehox.eu:8888/Call%20of%20Duty%205.zip"
-    version: v1.7
+    version:  v1.7
   csgo:
-    version: 'laatste Steam versie'
+    version:  'laatste Steam versie'
   css:
     download: "https://f002.backblazeb2.com/file/lanlords/games/css.zip"
     mirror:   "http://lanlords.nehox.eu:8888/Counter-Strike%20Source.zip"
-    version: '-'
+    version:  '-'
   fo2:
     download: "https://f002.backblazeb2.com/file/lanlords/games/fo2.zip"
     mirror:   "http://lanlords.nehox.eu:8888/FlatOut%202.zip"
-    version: '-'
+    version:  '-'
   tf2:
-    version: 'laatste Steam versie'
+    version:  'laatste Steam versie'

@@ -14,8 +14,8 @@ De versie die je moet hebben is: **{{ site.games.cod5.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.cod5.download }}) met alle installatie bestanden.
-Of via [deze mirror]({{ site.games.cod5.mirror }}).
+Download [het zip bestand]({{ site.games.cod5.download }}) met alle
+installatie bestanden.
 
 ### Installatie
 
