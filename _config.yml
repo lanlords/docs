@@ -40,6 +40,8 @@ games:
   bfbc2:
     download: "http://download.fieldfuckers.nl/file/bfbc2"
     version:  '-'
+  bt1944:
+    version:  'laatste Steam versie'
   cod2:
     download: "http://download.fieldfuckers.nl/file/cod2"
     version:  v1.3
