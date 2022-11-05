@@ -29,35 +29,35 @@ aux_links:
 # Content variables
 games:
   bf1942:
-    download: "http://download.fieldfuckers.nl/file/bf1942"
+    download: "https://download.fieldfuckers.nl/file/bf1942"
     version:  v1.61b
   bf2:
-    download: "http://download.fieldfuckers.nl/file/bf2"
+    download: "https://download.fieldfuckers.nl/file/bf2"
     version:  v1.50
   bf3:
-    download: "http://download.fieldfuckers.nl/file/bf3"
+    download: "https://download.fieldfuckers.nl/file/bf3"
     version:  '-'
   bfbc2:
-    download: "http://download.fieldfuckers.nl/file/bfbc2"
+    download: "https://download.fieldfuckers.nl/file/bfbc2"
     version:  '-'
   bt1944:
     version:  'laatste Steam versie'
   cod2:
-    download: "http://download.fieldfuckers.nl/file/cod2"
+    download: "https://download.fieldfuckers.nl/file/cod2"
     version:  v1.3
   cod4:
-    download: "http://download.fieldfuckers.nl/file/cod4"
+    download: "https://download.fieldfuckers.nl/file/cod4"
     version:  v1.7
   cod5:
-    download: "http://download.fieldfuckers.nl/file/cod5"
+    download: "https://download.fieldfuckers.nl/file/cod5"
     version:  v1.7
   csgo:
     version:  'laatste Steam versie'
   css:
-    download: "http://download.fieldfuckers.nl/file/css"
+    download: "https://download.fieldfuckers.nl/file/css"
     version:  '-'
   fo2:
-    download: "http://download.fieldfuckers.nl/file/fo2"
+    download: "https://download.fieldfuckers.nl/file/fo2"
     version:  '-'
   tf2:
     version:  'laatste Steam versie'
