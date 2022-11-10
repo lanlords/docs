@@ -20,7 +20,7 @@ installatie bestanden.
 ### Installatie
 
 1. Mount de `install.iso` iso.
-2. Volg de installatie stappen en gebruik [een willekeurige serial](https://www.serials.ws/?chto=Call+of+Duty+4).
+2. Volg de installatie stappen en gebruik een key uit [serial.txt]({{ baseurl }}/assets/file/game/cod4/serial.txt).
 3. Patch het spel naar v1.4 door `patch_1.4.exe` te openen.
 4. Patch het spel naar v1.5 door `patch_1.5.exe` te openen.
 5. Patch het spel naar v1.6 door `patch_1.6.exe` te openen.
