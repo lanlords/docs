@@ -25,6 +25,13 @@ installatie bestanden.
 
 ### Bekende problemen
 
+**Lage FPS**
+
+Bij lage FPS (5/10) kan het probleem soms worden opgelost door het instellen
+van een andere DirectX versie in de instellingen van COD2.
+
+Stel DirectX 7 in bij de Display Preferences van de COD2 in-game settings.
+
 **Zwart scherm crash**
 
 Als Call of Duty 2 niet start op Windows 10 en direct na het starten (met een zwart scherm) weer crashed kan je de volgende twee dingen proberen:

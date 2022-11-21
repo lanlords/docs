@@ -54,6 +54,12 @@ Nu zou het moeten werken :)
 
 **Foutmelding bij het starten**
 
-Als je Vista  hebt, dan moet je een microfoon bij het opstarten inpluggen, anders krijg je een foutmelding.
-Daarna kan je hem eruit halen voor bijvoorbeeld de volgende speler. Dit kan soms ook voorkomen bij andere
-besturingssystemen naast Vista.
+Voordat je het spel start, plug een mini headphone jack (zoals bij een microfoon of normale oortjes), zoals deze:
+
+![Screenshot](/assets/img/game/mini-jack.jpg)
+
+in de microfoon poort van je computer. Deze is meestal roze gekleurd en staat er een microfoon icoontje bij, zoals de middelste poort van het onderstaande plaatje:
+
+![Screenshot](/assets/img/game/audio-ports.jpg)
+
+De mini jack hoef je alleen maar ingeprikt te hebben bij het opstarten, daarna kan je deze weer uit je computer halen.
