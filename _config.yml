@@ -40,6 +40,8 @@ games:
     version:  '-'
   bt1944:
     version:  'laatste Steam versie'
+  cmw:
+    version:  'laatste Steam versie'
   cod2:
     download: "https://download.fieldfuckers.nl/games/cod2.zip"
     version:  v1.3
