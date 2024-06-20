@@ -35,6 +35,9 @@ games:
   bf3:
     download: "https://download.fieldfuckers.nl/games/bf3.zip"
     version:  '-'
+  bf4:
+    download: "https://download.fieldfuckers.nl/games/bf4.zip"
+    version:  '-'
   bfbc2:
     download: "https://download.fieldfuckers.nl/games/bfbc2.zip"
     version:  '-'
@@ -51,6 +54,11 @@ games:
   cod5:
     download: "https://download.fieldfuckers.nl/games/cod5.zip"
     version:  v1.7
+  codmw2:
+    download: "https://download.fieldfuckers.nl/games/codmw2.zip"
+    version:  '-'
+  cs2:
+    version:  'laatste Steam versie'
   csgo:
     version:  'laatste Steam versie'
   css:
@@ -59,5 +67,7 @@ games:
   fo2:
     download: "https://download.fieldfuckers.nl/games/fo2.zip"
     version:  '-'
+  hli:
+    version:  'laatste Steam versie'
   tf2:
     version:  'laatste Steam versie'

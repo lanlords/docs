@@ -16,11 +16,12 @@ voor de gebruikte versies.
 
 | Game                                               | Fallback     |
 |----------------------------------------------------|--------------|
-| [Battlefield 1942](games/bf1942)                   | nvt          |
-| [Battlefield Bad Company 2](games/bfbc2)           | nvt          |
+| [Battlefield 2](games/bf2)                         | nvt          |
+| [Battlefield 4](games/bf4)                         | nvt          |
 | [Call of Duty 2](games/cod2)                       | nvt          |
-| [Call of Duty 5](games/cod5)                       | nvt          |
-| [Counter-Strike: Global Offensive](games/csgo)     | nvt          |
+| [Call of Duty: Modern Warfare 2](games/codmw2)     | nvt          |
+| [Counter-Strike 2](games/cs2)                      | nvt          |
+| [Halo Infite](games/hli)                           | nvt          |
 | [Team Fortress 2](games/tf2)                       | nvt          |
 
 Sommige games hebben een fallback die gespeeld zullen worden als de primaire
