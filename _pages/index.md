@@ -19,7 +19,7 @@ voor de gebruikte versies.
 | [Battlefield 2](games/bf2)                         | nvt          |
 | [Battlefield 4](games/bf4)                         | nvt          |
 | [Call of Duty 2](games/cod2)                       | nvt          |
-| [Call of Duty: Modern Warfare 2](games/codmw2)     | nvt          |
+| [Call of Duty 4](games/cod4)                       | nvt          |
 | [Counter-Strike 2](games/cs2)                      | nvt          |
 | [Halo Infite](games/hli)                           | nvt          |
 | [Team Fortress 2](games/tf2)                       | nvt          |
