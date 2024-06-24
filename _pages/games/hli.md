@@ -24,5 +24,7 @@ De laatste Nvidia driver versie **555.99** heeft een bug waardoor
 Halo Infite crashed na het starten. Dit kan opgelost worden door
 te downgraden naar 1 versie ervoor, namelijk **555.85**.
 
-Downgraden kan door de Nvidia driver te verwijderen en de vorige
-versie hier te downloaden: https://www.nvidia.com/Download/Find.aspx.
+Downgraden kan door de Nvidia driver te verwijderen met bijvoorbeeld
+[DDU](https://www.wagnardsoft.com/forums/viewtopic.php?t=4949).
+Vervolgens kan je hier de vorige versie downloaden:
+[https://www.nvidia.com/Download/Find.aspx](https://www.nvidia.com/Download/Find.aspx).

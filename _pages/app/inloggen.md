@@ -23,4 +23,5 @@ Als je de app geinstalleerd hebt kun je in het menu op inloggen klikken.
 Weet je je gebruikersnaam niet, check dan even bij je Teamcaptain, die kan het inzien.
 
 ### Wil je je gebruikersnaam aanpassen?
+
 Stuur dan even een berichtje naar .Deb op de Lanlords Discord.
