@@ -22,6 +22,6 @@ installatie bestanden.
 1. Kopieer de bestanden naar een vaste locatie (bijv.: `C:/Program Files/Battlefield 4`)
 2. Open de "Battlefield 4" map waar je hem naartoe gekopieerd hebt en start eenmalig `BFUlauncher.exe`
 3. Vervolgens verschijnt er een pop-up met **setup finished**. Deze kan je wegklikken
-4. Het joinen van een server gaat via een URL die later wordt gedeeld
+4. Het joinen van een server gaat via een URL. Deze wordt op Lanlords gedeeld
 
 ### Bekende problemen
