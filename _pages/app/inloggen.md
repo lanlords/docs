@@ -12,8 +12,6 @@ Als je de app geinstalleerd hebt kun je in het menu op inloggen klikken.
 
 ![Screenshot](/assets/img/app/login/login-menu.png)
 
-
-
 ### Stappen om in te loggen.
 
 1. Vervolgens zal je een scherm zien waar je je gebruikersnaam(Username) moet invullen. * 
