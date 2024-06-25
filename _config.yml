@@ -1,7 +1,6 @@
 ## Jekyll configuration
 
 # Include pages
-#include: ['_pages']
 permalink: pretty
 
 # Site settings
@@ -76,4 +75,3 @@ just_the_docs:
   collections:
     games:
       name: Games
-      #nav_fold: true
