@@ -10,7 +10,7 @@ description: >-
   Een verzameling van de installatie instructies van de games,
   informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
 baseurl: "/"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://docs.lanlords.nl"
 
 # Build settings
