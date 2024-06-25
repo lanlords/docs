@@ -1,20 +1,17 @@
 ---
 layout: page
-parent: Games
-
 title: Call of Duty 4
-permalink: /games/cod4
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.cod4.version }}**
+De versie die je moet hebben is: **{{ site.data.cod4.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.cod4.download }}) met alle
+Download [het zip bestand]({{ site.data.cod4.download }}) met alle
 installatie bestanden.
 
 ### Installatie

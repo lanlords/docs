@@ -1,7 +1,7 @@
 ## Jekyll configuration
 
 # Include pages
-include: ['_pages']
+#include: ['_pages']
 permalink: pretty
 
 # Site settings
@@ -10,10 +10,10 @@ description: >-
   Een verzameling van de installatie instructies van de games,
   informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
 baseurl: "/"
+theme: just-the-docs
 url: "https://docs.lanlords.nl"
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
@@ -25,7 +25,7 @@ aux_links:
     - "http://www.lanlords.nl"
 
 # Content variables
-games:
+data:
   bf1942:
     download: "https://download.fieldfuckers.nl/games/bf1942.zip"
     version:  v1.61b
@@ -54,12 +54,7 @@ games:
   cod5:
     download: "https://download.fieldfuckers.nl/games/cod5.zip"
     version:  v1.7
-  codmw2:
-    download: "https://download.fieldfuckers.nl/games/codmw2.zip"
-    version:  '-'
   cs2:
-    version:  'laatste Steam versie'
-  csgo:
     version:  'laatste Steam versie'
   css:
     download: "https://download.fieldfuckers.nl/games/css.zip"
@@ -71,3 +66,14 @@ games:
     version:  'laatste Steam versie'
   tf2:
     version:  'laatste Steam versie'
+
+collections:
+  games:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    games:
+      name: Games
+      #nav_fold: true

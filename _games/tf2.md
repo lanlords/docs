@@ -1,16 +1,13 @@
 ---
 layout: page
-parent: Games
-
 title: Team Fortress 2
-permalink: /games/tf2
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.tf2.version }}**
+De versie die je moet hebben is: **{{ site.data.tf2.version }}**
 
 ### Installatie
 

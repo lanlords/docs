@@ -1,16 +1,13 @@
 ---
 layout: page
-parent: Games
-
 title: Counter-Strike 2
-permalink: /games/cs2
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.cs2.version }}**
+De versie die je moet hebben is: **{{ site.data.cs2.version }}**
 
 ### Installatie
 

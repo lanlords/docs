@@ -1,20 +1,17 @@
 ---
 layout: page
-parent: Games
-
 title: Battlefield 4
-permalink: /games/bf4
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.bf4.version }}**
+De versie die je moet hebben is: **{{ site.data.bf4.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.bf4.download }}) met alle
+Download [het zip bestand]({{ site.data.bf4.download }}) met alle
 installatie bestanden.
 
 ### Installatie

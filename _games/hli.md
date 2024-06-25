@@ -1,16 +1,13 @@
 ---
 layout: page
-parent: Games
-
-title: Halo Infite
-permalink: /games/hli
+title: Halo Infinite
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.hli.version }}**
+De versie die je moet hebben is: **{{ site.data.hli.version }}**
 
 ### Installatie
 

@@ -1,20 +1,17 @@
 ---
 layout: page
-parent: Games
-
 title: FlatOut 2
-permalink: /games/fo2
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.fo2.version }}**
+De versie die je moet hebben is: **{{ site.data.fo2.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.fo2.download }}) met alle
+Download [het zip bestand]({{ site.data.fo2.download }}) met alle
 installatie bestanden.
 
 ### Installatie

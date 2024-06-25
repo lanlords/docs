@@ -1,16 +1,13 @@
 ---
 layout: page
-parent: Games
-
-title: Chivalry: Medieval Warfare
-permalink: /games/cmw
+title: Chivalry Medieval Warfare
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.cmw.version }}**
+De versie die je moet hebben is: **{{ site.data.cmw.version }}**
 
 ### Installatie
 

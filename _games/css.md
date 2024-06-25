@@ -1,20 +1,18 @@
 ---
 layout: page
-parent: Games
-
 title: Counter-Strike Source
-permalink: /games/css
+published: false
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.css.version }}**
+De versie die je moet hebben is: **{{ site.data.css.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.css.download }}) met alle
+Download [het zip bestand]({{ site.data.css.download }}) met alle
 installatie bestanden.
 
 ### Installatie

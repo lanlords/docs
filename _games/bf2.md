@@ -1,20 +1,17 @@
 ---
 layout: page
-parent: Games
-
 title: Battlefield 2
-permalink: /games/bf2
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.games.bf2.version }}**
+De versie die je moet hebben is: **{{ site.data.bf2.version }}**
 
 ### Bestanden
 
-Download [het zip bestand]({{ site.games.bf2.download }}) met alle
+Download [het zip bestand]({{ site.data.bf2.download }}) met alle
 installatie bestanden.
 
 ### Installatie
