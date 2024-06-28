@@ -28,3 +28,7 @@ installatie bestanden.
 4. Join de server door op het plaatje van de juiste server te klikken
 
 ### Bekende problemen
+
+1. Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert te joinen: 
+![alt text](site.assets.bf4.errors.the-code-execution-cannot-proceed.jpg "bf4-the-code-execution-cannot-proceed.jpg")
+Dit los je op door naar bf4\Battlefield 4\__Installer\vc\vc2012Update3\redist te gaan en vcredist_x64.exe te runnen
