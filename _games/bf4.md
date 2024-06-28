@@ -29,6 +29,9 @@ installatie bestanden.
 
 ### Bekende problemen
 
-1. Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert te joinen: 
+#### Probleem
+Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert te joinen: 
 ![Error message](/assets/img/game/bf4-error-01.jpg)
+
+#### Oplossing
 Dit los je op door naar bf4\Battlefield 4\__Installer\vc\vc2012Update3\redist\ te gaan en vcredist_x64.exe te runnen
