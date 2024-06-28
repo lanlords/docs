@@ -49,7 +49,7 @@ Nu zou het moeten werken :)
 
 ### Bekende problemen
 
-**Foutmelding bij het starten**
+**Foutmelding bij het starten I**
 
 Voordat je het spel start, plug een mini headphone jack (zoals bij een microfoon of normale oortjes), zoals deze:
 
@@ -60,3 +60,7 @@ in de microfoon poort van je computer. Deze is meestal roze gekleurd en staat er
 ![Screenshot](/assets/img/game/audio-ports.jpg)
 
 De mini jack hoef je alleen maar ingeprikt te hebben bij het opstarten, daarna kan je deze weer uit je computer halen.
+
+**Foutmelding bij het starten II**
+
+Voordat je het spel start, zorg er voor dat Steam niet draait. Dit kan problemen geven.
