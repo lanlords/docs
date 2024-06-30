@@ -17,9 +17,9 @@ De versie die je moet hebben is: **{{ site.data.hli.version }}**
 
 **Spel crashed gelijk na het starten**
 
-De Nvidia driver versie **555.99** heeft een bug waardoor
-Halo Infite crashed na het starten. Dit kan opgelost worden door
-te downgraden naar een nieuwere versie of 1 versie ervoor, bijvoorbeeld **555.85**.
+De Nvidia driver versie **555.99** heeft een bug waardoor Halo Infite
+crashed na het starten. Dit kan opgelost worden door te upgraden naar
+een nieuwere versie of downgraden naar 1 versie ervoor, bijvoorbeeld **555.85**.
 
 Downgraden kan door de Nvidia driver te verwijderen met bijvoorbeeld
 [DDU](https://www.wagnardsoft.com/forums/viewtopic.php?t=4949).
