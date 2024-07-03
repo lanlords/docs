@@ -38,7 +38,7 @@ Dit los je op door naar bf4\Battlefield 4\__Installer\vc\vc2012Update3\redist\ t
 
 #### Probleem
 Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert te joinen: 
-![Error message](/assets/img/game/bf4-error-02.jpg)
+![Error message](/assets/img/game/bf4-error-02.png)
 
 #### Oplossing
 Dit los je op door BF4 in de lokale firewall toe te staan
