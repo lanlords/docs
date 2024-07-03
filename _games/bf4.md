@@ -35,3 +35,10 @@ Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert
 
 #### Oplossing
 Dit los je op door naar bf4\Battlefield 4\__Installer\vc\vc2012Update3\redist\ te gaan en vcredist_x64.exe te runnen
+
+#### Probleem
+Het kan voorkomen dat je de volgende error krijgt wanneer je een server probeert te joinen: 
+![Error message](/assets/img/game/bf4-error-02.jpg)
+
+#### Oplossing
+Dit los je op door BF4 in de lokale firewall toe te staan
