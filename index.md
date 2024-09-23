@@ -13,13 +13,12 @@ voorkomende problemen.
 
 Deze editie spelen we de onderstaande games:
 
-| Game                             | Versie                           | Fallback |
-|----------------------------------|----------------------------------|----------|
+| Game                             | Versie                          | Fallback |
+|----------------------------------|---------------------------------|----------|
 | [Battlefield 2](games/bf2)       | `{{ site.data.bf2.version }}`   | nvt      |
 | [Battlefield 4](games/bf4)       | `{{ site.data.bf4.version }}`   | nvt      |
 | [Call of Duty 2](games/cod2)     | `{{ site.data.cod2.version }}`  | nvt      |
-| [Call of Duty 4](games/cod4)     | `{{ site.data.cod4.version }}`  | nvt      |
-| [Counter-Strike 2](games/cs2)    | `{{ site.data.cs2.version }}`   | nvt      |
+| [Call of Duty 5](games/cod5)     | `{{ site.data.cod5.version }}`  | nvt      |
 | [Halo Infinite](games/hli)       | `{{ site.data.hli.version }}`   | nvt      |
 | [Team Fortress 2](games/tf2)     | `{{ site.data.tf2.version }}`   | nvt      |
 
