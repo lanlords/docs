@@ -26,7 +26,7 @@ Deze editie spelen we de onderstaande games:
 
 Het schema is als volgt:
 
-![Screenshot](/assets/img/overig/schema.jpg)
+[![Screenshot](/assets/img/overig/schema.jpg)](/assets/img/overig/schema.jpg)
 
 > Elke ronde zal het team dat achter staat een keuze moeten maken tussen
 > de games die op dezelfde regel staan.
