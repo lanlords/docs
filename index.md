@@ -11,22 +11,18 @@ voorkomende problemen.
 
 ### Games
 
-De games voor de aankomende editie zijn nog niet bekend.
-
 <!--
+De games voor de aankomende editie zijn nog niet bekend.
+-->
+
 Deze editie spelen we de onderstaande games:
 
 | Game                                     | Versie                           |
 |------------------------------------------|----------------------------------|
-| [Battlefield 1942](games/bf1942)         | `{{ site.data.bf1942.version }}` |
 | [Battlefield 2](games/bf2)               | `{{ site.data.bf2.version }}`    |
 | [Battlefield 4](games/bf4)               | `{{ site.data.bf4.version }}`    |
-| [Battlefield Bad Company 2](games/bfbc2) | `{{ site.data.bfbc2.version }}`  |
 | [Call of Duty 2](games/cod2)             | `{{ site.data.cod2.version }}`   |
-| [Call of Duty 4](games/cod4)             | `{{ site.data.cod4.version }}`   |
-| [Counter-Strike 2](games/cs2)            | `{{ site.data.cs2.version }}`    |
 | [Team Fortress 2](games/tf2)             | `{{ site.data.tf2.version }}`    |
--->
 
 ### Discord
 
