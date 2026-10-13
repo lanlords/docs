@@ -9,12 +9,17 @@ description: >-
   Een verzameling van de installatie instructies van de games,
   informatie over de LAN zelf en oplossingen voor veelvoorkomende problemen.
 baseurl: "/"
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 url: "https://docs.lanlords.nl"
 
 # Build settings
 plugins:
   - jekyll-feed
+
+# Sass
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 # Header navigation
 aux_links:
