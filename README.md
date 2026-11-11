@@ -14,6 +14,11 @@ bundle exec jekyll serve
 ```
 By default Jekyll when running the `serve` command is reachable on [127.0.0.1:4000](http://127.0.0.1:4000/).
 
+Run the Finals page checks with:
+```
+node --test test/finals.test.js
+```
+
 ## License
 
 [MIT license](LICENSE)
