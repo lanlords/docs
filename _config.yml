@@ -70,6 +70,8 @@ data:
     version:  'laatste Steam versie'
   tf2:
     version:  'laatste Steam versie'
+  finals:
+    version:  'laatste Steam versie'
 
 collections:
   games:
