@@ -8,6 +8,12 @@ Public documentation website for Lanlords. Contains various game installation in
 
 ## Development
 
+Use Ruby 3.4 and install the dependencies from `Gemfile.lock` before running Jekyll:
+```
+gem install bundler -v 4.0.22
+bundle install
+```
+
 To test out changes locally you can run the embedded Jekyll webserver which reloads at file changes:
 ```
 bundle exec jekyll serve
@@ -18,6 +24,14 @@ Run the Finals page checks with:
 ```
 node --test test/finals.test.js
 ```
+
+## Deployment
+
+In the repository's **Settings > Pages > Build and deployment**, set **Source** to
+**GitHub Actions**. The [Pages workflow](.github/workflows/pages.yml) installs the
+locked gems, builds with Jekyll 4, and deploys on pushes to `main` or manual runs.
+The built-in "Deploy from a branch" builder uses GitHub Pages' bundled Jekyll 3
+and cannot satisfy this project's dependencies.
 
 ## License
 
