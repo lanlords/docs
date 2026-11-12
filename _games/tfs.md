@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Finals
+title: The Finals
 ---
 
 Installeer {{ page.title }}
 
 ### Versie
 
-De versie die je moet hebben is: **{{ site.data.finals.version }}**
+De versie die je moet hebben is: **{{ site.data.tfs.version }}**
 
 ### Installatie
 
